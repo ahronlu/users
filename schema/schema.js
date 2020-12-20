@@ -2,7 +2,7 @@ const graphql = require("graphql");
 const _ = require("lodash");
 const { GraphQLObjectType, GraphQLString, GraphQLInt, GraphQLSchema } = graphql;
 
-const user = [
+const users = [
   { id: "12", firstName: "Brad", age: 20 },
   { id: "34", firstName: "Joe", age: 22 },
 ];
