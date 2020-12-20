@@ -4,7 +4,7 @@
     { "id": "34", "firstName": "Joe", "age": 22, "companyId": "1" },
     { "id": "56", "firstName": "Jack", "age": 45, "companyId": "2" }
   ],
-  "company": [
+  "companies": [
     { "id": "1", "name": "Apple", "description": "iphone" },
     { "id": "24", "name": "Google", "description": "search" }
   ]
